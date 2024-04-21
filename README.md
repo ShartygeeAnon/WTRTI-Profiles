@@ -10,6 +10,10 @@
 The only difference between the profiles is the position of the groups, which needs to be halved in RTSS OSD to end up in the same position.
 Due to the fact that positions are set with absolute values and not percentages, the groups will only appear in intended positions when a preset with your monitor's native resolution is loaded.
 
+# Showcase
+
+![](./assets/example.jpg)
+
 # Tips
 
 When loading a different profile, don't forget to change the OSD Type in WTRTI's settings.
